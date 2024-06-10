@@ -50,7 +50,6 @@ The `main` function orchestrates the process of reading the input file, generati
 ## Limitations
 
 - The program is designed to handle text files with a size limit of 2.00GB.
-- The program cannot compress a file that contains a single repeated character.
 
 ## Conclusion
 
