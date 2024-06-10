@@ -47,9 +47,6 @@ The `main` function orchestrates the process of reading the input file, generati
 - The program checks for file size constraints and handles cases where the file is too small or too large to be compressed.
 - Proper error handling is implemented to ensure that files are opened successfully.
 
-## Limitations
-
-- The program is designed to handle text files with a size limit of 2.00GB.
 
 ## Conclusion
 
